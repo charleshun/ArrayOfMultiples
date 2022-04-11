@@ -1,0 +1,12 @@
+D:\AppDEV\!CoreX\csh02\Prg\bin\Debug\net6.0\Prg.deps.json
+D:\AppDEV\!CoreX\csh02\Prg\bin\Debug\net6.0\Prg.dll
+D:\AppDEV\!CoreX\csh02\Prg\bin\Debug\net6.0\Prg.pdb
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\Prg.csproj.AssemblyReference.cache
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\Prg.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\Prg.AssemblyInfoInputs.cache
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\Prg.AssemblyInfo.cs
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\Prg.csproj.CoreCompileInputs.cache
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\Prg.dll
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\refint\Prg.dll
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\Prg.pdb
+D:\AppDEV\!CoreX\csh02\Prg\obj\Debug\net6.0\ref\Prg.dll
